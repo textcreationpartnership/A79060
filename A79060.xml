@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties resolution, and the Parliaments determination, concerning the requests of the French and Spanish embassadors With the names and charge of 47. of the House of Commons, appointed for the Committee, till the Parliament sit againe.</title>
+            <title>Proceedings. 1641-09</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79060</idno>
+            <idno type="STC">Wing C2744A</idno>
+            <idno type="STC">ESTC R230175</idno>
+            <idno type="EEBO-CITATION">99896212</idno>
+            <idno type="PROQUEST">99896212</idno>
+            <idno type="VID">153854</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79060)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153854)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2384:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties resolution, and the Parliaments determination, concerning the requests of the French and Spanish embassadors With the names and charge of 47. of the House of Commons, appointed for the Committee, till the Parliament sit againe.</title>
+                  <title>Proceedings. 1641-09</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by B. Alsop, dwelling in Grubstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains Parliamentary resolutions only, the chief of which refuses military aid to Spain prior to restoration of the Elector Palatine.</note>
+                  <note>With royal arms on title page.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153854:1"/>
+            <p>THE KINGS MAJESTIES RESOLUTION, AND THE <hi>PARLIAMENTS</hi> Determination, concerning the <hi>Requeſts</hi> of the <hi>French</hi> and <hi>Spaniſh Embaſſadors.</hi> With the <hi>Names</hi> and <hi>Charge</hi> of 47. of the Houſe of <hi>Commons,</hi> ap<g ref="char:EOLhyphen"/>pointed for the <hi>Committee,</hi> till the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> ſit againe.</p>
+            <figure>
+               <head>C R</head>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by B. ALSOP, dwelling in Grubſtreet. <hi>1641.</hi>
+            </p>
+            <pb facs="tcp:153854:2" rendition="simple:additions"/>
+            <pb facs="tcp:153854:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153854:3"/>
+            <pb n="1" facs="tcp:153854:3"/>
+            <head>
+               <date>Die lovis <hi>Septemb.</hi> 1641.</date>
+            </head>
+            <head type="sub">The laſt Day of the Parliament ſitting.</head>
+            <list>
+               <item>
+                  <hi>MAaſter Pymme,</hi>
+               </item>
+               <item>
+                  <hi>Sir Gillbert Gerrard,</hi>
+               </item>
+               <item>
+                  <hi>Sir Iohn Francklyn.</hi>
+               </item>
+               <item>
+                  <hi>Sir Iohn Culpepper,</hi>
+               </item>
+               <item>
+                  <hi>Mr: Wheeler,</hi>
+               </item>
+               <item>
+                  <hi>M. Henry Mildmay,</hi>
+               </item>
+               <item>
+                  <hi>M. Bridgeman,</hi>
+               </item>
+               <item>
+                  <hi>Sir Thomas Bowyer,</hi>
+               </item>
+               <item>
+                  <hi>Sir Tho: Barrington,</hi>
+               </item>
+               <item>
+                  <hi>Sir Edward Hales,</hi>
+               </item>
+               <item>
+                  <hi>Sir William Litton,</hi>
+               </item>
+               <item>
+                  <hi>Sir Richard Cave,</hi>
+               </item>
+               <item>
+                  <hi>M. Robert Goodwin,</hi>
+               </item>
+               <item>
+                  <hi>Sir Samuel Luke,</hi>
+               </item>
+               <item>
+                  <hi>M. Wingate,</hi>
+               </item>
+               <item>
+                  <hi>Sir Robert Pye,</hi>
+               </item>
+               <item>
+                  <hi>Alderman Soames,</hi>
+               </item>
+               <item>
+                  <hi>Alderman Penington;</hi>
+               </item>
+               <item>
+                  <hi>Captain V<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en,</hi>
+               </item>
+               <item>
+                  <hi>M. Vaſſel</hi>
+               </item>
+               <item>
+                  <hi>Lord Faulkland,</hi>
+               </item>
+               <item>
+                  <hi>Captain Rainsborough</hi>
+               </item>
+               <item>
+                  <hi>Maſter Bence,</hi>
+               </item>
+               <item>
+                  <hi>Sir Peter Wroth,</hi>
+               </item>
+               <item>
+                  <hi>Maſter Holland,</hi>
+               </item>
+               <item>
+                  <hi>M. Wynwood,</hi>
+               </item>
+               <item>
+                  <hi>M. Scowen,</hi>
+               </item>
+               <item>
+                  <hi>M. Joh. Goodwin</hi>
+               </item>
+               <item>
+                  <hi>Sir Thomas Dacres,</hi>
+               </item>
+               <item>
+                  <hi>M. Merley,</hi>
+               </item>
+               <item>
+                  <hi>M. Martin,</hi>
+               </item>
+               <item>
+                  <hi>M, Arthur Goodwin,</hi>
+               </item>
+               <item>
+                  <hi>Sir Iohn Clotworthy,</hi>
+               </item>
+               <item>
+                  <hi>M. White,</hi>
+               </item>
+               <item>
+                  <hi>M. Sollicitor,</hi>
+               </item>
+               <item>
+                  <hi>M. Spurſtow,</hi>
+               </item>
+               <item>
+                  <hi>M. Lawr. Whitaker,</hi>
+               </item>
+               <item>
+                  <hi>M, Sergeant Wiler,</hi>
+               </item>
+               <item>
+                  <hi>M. Strowd,</hi>
+               </item>
+               <item>
+                  <hi>Sir Henry Vane,</hi>
+               </item>
+               <item>
+                  <hi>M. Glynne,</hi>
+               </item>
+               <item>
+                  <hi>Sir Simon Dewes.</hi>
+               </item>
+               <item>
+                  <hi>Sir William Drake,</hi>
+               </item>
+               <item>
+                  <hi>M. Beddingfield,</hi>
+               </item>
+               <item>
+                  <hi>Sir. Gilbert Pickering</hi>
+               </item>
+               <item>
+                  <hi>M. Blackſtone,</hi>
+               </item>
+               <item>
+                  <hi>Maſter Waller.</hi>
+               </item>
+            </list>
+            <div n="committee" type="resolutions">
+               <pb n="2" facs="tcp:153854:4"/>
+               <head>This Committee is to meet on Saturday next in the Exchequer Chamber, at <hi>9.</hi> of the clock in the forenoone. And they are to meet every Tueſday &amp; Saturday in every weeke, &amp; at ſuch other times as they ſhall think fit, till the receſſe of the Par<g ref="char:EOLhyphen"/>liament, which ſhall be on the <hi>20.</hi> of October next.</head>
+               <p>THey or any ſixe of them, have power to meet with the <hi>Committee</hi> of the Lords appointed, during their receſſe at ſuch time as they ſhall appoint.</p>
+               <div n="2" type="resolution">
+                  <head>Reſolved upon the queſtion.</head>
+                  <p n="2">2. That the <hi>Committee</hi> appointed by the Houſe during their Receſſe, ſhall have power to receive and open ſuch Letters; as ſhall come from the <hi>Committees in Scotland,</hi> and to give anſwer, according to the former Inſtructions and Orders of this Houſe.</p>
+               </div>
+               <div n="3" type="resolution">
+                  <head>Reſolved vpon the queſtion.</head>
+                  <p n="3">3. This <hi>Committee</hi> ſhall take care that the Orders of this Houſe be punctually obſerved, concerning the disbanding of the Army, train of Artillery, and Garriſons, and for the iſſu<g ref="char:EOLhyphen"/>ing and ſending down of monyes to the purpoſes according<g ref="char:EOLhyphen"/>ly.</p>
+               </div>
+               <div n="4" type="resolution">
+                  <head>Reſolved upon the queſtion.</head>
+                  <p n="4">4. That this <hi>Committee</hi> ſhall have power to recall the <hi>Committees</hi> in <hi>Scotland,</hi> if they ſhall ſee cauſe.</p>
+               </div>
+               <div type="resolutions">
+                  <head>And it is further reſolved upon the queſtion.</head>
+                  <p n="5">5. That this <hi>Committee</hi> ſhall have power to go on in prepara<g ref="char:EOLhyphen"/>tion of proceedings againſt the principall of ſuch Delin<g ref="char:EOLhyphen"/>quents as are already voted, or complained againſt in the Houſe, and to report any offers, which they ſhall make to the Houſe.</p>
+                  <p n="5">5. That upon information of any Riots, or tumults, to have Power to ſend to all Sheriffes, Juſtices of Peace, and other Officers to ſtirre them up to their duty in repreſſing them, &amp; to report to the Houſe any fayler of Obedience to that ſen<g ref="char:EOLhyphen"/>ding.</p>
+                  <pb n="3" facs="tcp:153854:4"/>
+                  <p n="7">7. To examine the Entries of the Clarkes bookes, anS to that end that the <hi>Committee may not miſtake any paſt Action of the Houſe; a Clark to be left there with his Bookes.</hi>
+                  </p>
+                  <p n="8">8. To take care of the <hi>Preparation of his Majeſties Reve<g ref="char:EOLhyphen"/>nues, &amp; to take into conſideration any Accounts of any Accom<g ref="char:EOLhyphen"/>ptatants to His Majeſty.</hi>
+                  </p>
+                  <p n="9">9. <hi>To goe on in proſecution of the Conſideration of a Weſt-In<g ref="char:EOLhyphen"/>dia Company.</hi>
+                  </p>
+                  <p n="10">10. <hi>To take into Conſideration, the fiſhing upon the Coaſts of England, Scotland, and Ireland.</hi>
+                  </p>
+                  <p n="11">11. To take into Conſideration, the reſolution of the abu<g ref="char:EOLhyphen"/>ſes, in exchanging &amp; tranſporting of money, and the regula<g ref="char:EOLhyphen"/>ting of the Parr betwixt this and other Kingdomes.</p>
+                  <p n="12">12. To prepare the <hi>Iriſh</hi> Cauſes, depending, to be either at the acceſſe tranſmitted to the Lords, or recommended to the <hi>Iriſh Parliament.</hi>
+                  </p>
+                  <p n="12">12. <hi>To conſider about Salt-Peter, and Gunpowder.</hi>
+                  </p>
+                  <p n="13">13. <hi>To ſend for any Perſons, Writings and Records.</hi>
+                  </p>
+                  <p n="14">14, To prepare a diſcharge for the Earle of <hi>Warwick,</hi> accor<g ref="char:EOLhyphen"/>ding to thoſe Acquittances he hath given in concerning the <hi>Northern Counties.</hi>
+                  </p>
+                  <p>Ordered, that 30000 <abbr>l.</abbr> out of the firſt moneyes, that ſhall come to the <hi>Treaſurers</hi> and <hi>Commiſſioners</hi> in London for the Poll-money, ſhall be iſſued forth by the <hi>Committee,</hi> appoin<g ref="char:EOLhyphen"/>ted to ſit during the receſſe, for the Payment of the Garri<g ref="char:EOLhyphen"/>ſons, and that the <hi>Committees</hi> ſhall inquire into the ſtate of the monyes due to thoſe Garriſons, and take care for the further Payment of ſuch monyes, as ſhall appeare to be due unto them, over and above the ſaid 30000 <abbr>l.</abbr>
+                  </p>
+                  <p>It is further ordered, that the <hi>Declaration</hi> of the <hi>Commons,</hi> in <hi>Parliament</hi> made the 9. of <hi>Septewber.</hi> 1641. When it ſhall be Printed, it ſhall be brought to this <hi>Committee,</hi> to compare with the Record, and to take care for the diſperſing thereof.</p>
+               </div>
+            </div>
+            <div n="Charles II" type="resolution">
+               <pb n="4" facs="tcp:153854:5"/>
+               <head>His Majeſties Reſolution concerning the Spaniſh Embaſſadors Requeſt, with the Parliaments Determination therein.</head>
+               <p>WHen the King was pleaſed to acquaint both Houſes with the deſire of the French and Spaniſh Embaſſa<g ref="char:EOLhyphen"/>dors, to tranſport Forces out of <hi>England &amp; Ireland,</hi> His Majeſty did withall gratiouſly expreſſe His Reſolution, not to conſent to thoſe Deſires, without the conſent of His Par<g ref="char:EOLhyphen"/>liament.</p>
+               <p>Both Houſes have ſearcht their Journals and find by them, that not only they never made any expreſſion of ſuch a con<g ref="char:EOLhyphen"/>ſent, (as they can make no ſuch but by Order) but that both Houſes have by vote declared their opinion to the contra<g ref="char:EOLhyphen"/>ry, and have incloſed the Copy of their Votes.</p>
+               <p>That the Parliament cannot but wonder, that any Perſon ſhould preſume to informe His Majeſty, that they had made any ſuch expreſſion, having made no ſuch vote, which they conceive to be deſtructive to their proceedings, and contra<g ref="char:EOLhyphen"/>ry to the Priviledges of Parliament.</p>
+               <p>And this being the ſtate of the matter of fact, the Parliament doth no leſſe wonder, &amp; conceives it a high injury to them, that the Spaniſh Embaſſadors ſhould offer a complaint of them to His Majeſty, for doing of that which (His Majeſty having referred the conſideration of the Embaſſadors deſires to Parliament) they could not but doe without manifeſt breach of their dutyes as Councellors, in this His Majeſties great Councell of Parliament, for the Reaſons following.</p>
+               <p n="1">1. That the want in which forraign ſtates ſtand of men, is ſuch, that great uſe may be made of them by His Majeſty, &amp; advantagious conditions had for them in the making or ſtrengthening of Alliances abroad as his Affaires and reaſon of State may require, which will be loſt, as to ſo many, and we feare as to more, which under colour of theſe may bee tranſported if theſe men ſhould be thus parted with.</p>
+               <pb n="5" facs="tcp:153854:5"/>
+               <p n="2">2. That the breeding of <hi>Iriſh</hi> Papiſts in a forraign war, may get danger to that Kingdome, and trouble to this, eſpeci<g ref="char:EOLhyphen"/>ally ſerving under the King of Spain there being already in His Dominions and in His Armyes, principall Fugitives of that Nation &amp; that in greater Commands over a Military of the ſame.</p>
+               <p n="3">3. That His Majeſty having ſent an extraordinary Embaſ<g ref="char:EOLhyphen"/>ſador to <hi>Ratisbone,</hi> to demand that in this preſent Dyer Ju<g ref="char:EOLhyphen"/>ſtice be done to the Electorall Houſe, by the Houſe of Au<g ref="char:EOLhyphen"/>ſtria, and likewiſe publiſht a Manifeſt, by adviſe of Parlia<g ref="char:EOLhyphen"/>ment, declaring that if this be not done by them (with whom how the Intereſts of Spaine are involved, &amp; interwoven is evident to all men) His Majeſty will imploy all ſuch Power, wherewith God hath enabled him, both by His owne Arms &amp; the Aſſiſtance of all his Allyes, to vindicate His Honour; The Parliament conceives that before Anſwer be made to this, ſo juſt Demand, it is neither ſafe nor Honourable; for His Majeſty to furniſh that Prince with Forces, which may be a diſheartning to the Proteſtant Party abroad, a weak<g ref="char:EOLhyphen"/>ning to His Majeſty, and a ſtrength to his Enemyes, in caſe Juſtice be not done to the Electorall Houſe, which they con<g ref="char:EOLhyphen"/>ceive to have the more cauſe to doubt by reaſon of the <hi>Pub<g ref="char:EOLhyphen"/>lication</hi> in print, of the late generall manifeſty to the incluſi<g ref="char:EOLhyphen"/>on of the <hi>Prince Palatine.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:153854:6"/>
+               <pb facs="tcp:153854:6"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
